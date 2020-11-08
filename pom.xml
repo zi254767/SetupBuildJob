@@ -38,7 +38,7 @@
   	</plugins>
   </build>
 
-<!--  Dependencies Started-->
+<!--  Dependencies Started Now-->
   <dependencies>
     <dependency>
 	        <groupId>org.seleniumhq.selenium</groupId>
